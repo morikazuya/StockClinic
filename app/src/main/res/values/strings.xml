@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">StockClinic</string>
+    //トップページ
+    <string name="btnStock">保有株式</string>
+    <string name="btnPortfolio">ポートフォリオ</string>
+    <string name="btnPieChart">ポートフォリオ(円グラフ)</string>
+    <string name="btnTrade">取引一覧</string>
+
+        <string name="portfolio_title">ポートフォリオ</string>
+        <string name="portfolio_total">合計</string>
+        <string name="portfolio_individual">ポートフォリオ</string>
+
+        //タブタイトル
+        <string name="tab_text_1">保有株式</string>
+        <string name="tab_text_2">ポートフォリオ</string>
+        <string name="tab_text_3">取引一覧</string>
+
+    //メニューリスト
+    <string name="menu_list_option_add">追加</string>
+
+        //ポートフォリオ追加ページ
+        <string name="new_portfolio">新しいポートフォリオの追加</string>
+        <string name="portfolio_name">名前</string>
+        <string name="portfolio_currency">通貨</string>
+        <string-array name="currencySelection">
+            <item>JPY</item>
+        </string-array>
+        <string name="new_portfolio_determination">決定</string>
+
+    //ポートフォリオページ
+
+
+    //銘柄追加ページ
+    <string name="btSave">保存</string>
+    <string name="btDelete">削除</string>
+
+    //取引一覧
+    <string name="trade_date">日付</string>
+    <string name="hold_trade">保有株式</string>
+    <string name="trade_quantity">量</string>
+    <string name="trade_price">価格</string>
+    //銘柄追加ページ
+    <string name="new_trade">取引情報</string>
+    <string name="trade_type">取引タイプ</string>
+    <string-array name="trade_selection">
+        <item>買付</item>
+    </string-array>
+    <string name="trade_fee">手数料</string>
+    <string name="trade_btn_register">登録</string>
+
+        //取引編集
+        <string name="dialog_title">編集</string>
+        <string name="dialog_msg">選択された取引を編集します。</string>
+        <string name="dialog_btn_modify">編集</string>
+        <string name="dialog_btn_delete">削除</string>
+        <string name="dialog_btn_cancel">キャンセル</string>
+        <string name="dialog_modify_toast">編集して下さい。</string>
+        <string name="dialog_delete_toast">削除しました。</string>
+
+</resources>
